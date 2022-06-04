@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DatatestOficial
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning traidung
-- 💞️ I’m looking to collaborate on automatitation with python
+- 🌱 I’m currently learning traiding
+- 💞️ I’m looking to collaborate on automation with python
 - 📫 How to reach me Datatest on youtube and FB
 
 <!---
